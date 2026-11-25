@@ -8,19 +8,11 @@
   <a href="https://github.com/yeninni">github.com/yeninni</a>
 </p>
 
-<p align="center">
-  <img src="assets/status.svg" width="846" alt="동덕여자대학교 데이터사이언스 2027년 2월 졸업 예정, 틸론 프론티어연구소 AI 엔지니어링 인턴 1년, KT wiz 퓨처스마케터 5기, V-IP 창업동아리 팀장">
-</p>
-
 ## 소개
 
-동덕여자대학교 데이터사이언스 전공이고 2027년 2월에 졸업합니다. 틸론 프론티어연구소에서 1년 동안 AI 엔지니어링 인턴으로 일했습니다.
+RAG 검색 평가, 데이터 파이프라인, 바로 열어 볼 수 있는 웹 프로토타입을 만듭니다. 자세한 경력과 프로젝트 과정은 [포트폴리오](https://yeninni.github.io/portfolioyelin/)에서 확인하실 수 있습니다. 지금은 데이터와 AI 쪽 신입 포지션을 찾고 있습니다.
 
-강의자료 챗봇을 만들 때 검색과 생성을 같이 다뤘습니다. 답이 틀렸을 때 검색이 문제인지 생성이 문제인지 가려내려고 한국어와 일본어 50문항 평가 세트를 만들었고, 고칠 때마다 같은 질문으로 다시 확인했습니다. 문서를 요약하고 구간을 뽑는 파이프라인, 이중화 환경에서 멈추던 프로비저닝 장애 분석도 했습니다.
-
-공공데이터로 바로 열리는 작은 웹 서비스를 만드는 것도 좋아합니다. 지금은 데이터와 AI 쪽 신입 포지션을 찾고 있습니다.
-
-*Data Science at Dongduk Women's University (Feb 2027). One year as an AI engineering intern at Tilon, building RAG retrieval, evaluation sets, and web prototypes.*
+*I build RAG retrieval, data pipelines, and web prototypes you can open right away. More about how I work is in the portfolio.*
 
 ## Projects
 
@@ -42,11 +34,11 @@
   <img src="assets/stack.svg" width="846" alt="RAG, 검색 평가 세트, PyTorch, Ollama, ChromaDB, Python, SQL, JavaScript, pandas, FastAPI, Docker, AWS, GitHub Pages">
 </p>
 
-## 자격
+## GitHub Stats
 
-- 데이터분석 준전문가 (ADsP), 2025.03
-- OPIc IM2, 2026.09
-- 한국사능력검정시험 2급
+<p align="center">
+  <img src="assets/stats.svg" width="846" alt="깃허브 통계: 지난 1년 커밋 98, PR 6, 공개 레포 14, 기여 119. 사용 언어는 Python 48.6%, HTML 31.2%, JavaScript 14.2%, TypeScript 2.4%, CSS 2.2%">
+</p>
 
 ## Contact
 
