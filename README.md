@@ -3,23 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://yeninni.github.io/portfolioyelin/">포트폴리오</a> &nbsp;|&nbsp;
   <a href="mailto:shinrora@naver.com">shinrora@naver.com</a> &nbsp;|&nbsp;
   <a href="https://github.com/yeninni">github.com/yeninni</a>
 </p>
 
 ## 소개
 
-RAG 검색 평가, 데이터 파이프라인, 바로 열어 볼 수 있는 웹 프로토타입을 만듭니다. 자세한 경력과 프로젝트 과정은 [포트폴리오](https://yeninni.github.io/portfolioyelin/)에서 확인하실 수 있습니다. 지금은 데이터와 AI 쪽 신입 포지션을 찾고 있습니다.
+RAG 검색 평가, 데이터 파이프라인, 바로 열어 볼 수 있는 웹 프로토타입을 만듭니다. 지금은 데이터와 AI 쪽 신입 포지션을 찾고 있습니다.
 
-*I build RAG retrieval, data pipelines, and web prototypes you can open right away. More about how I work is in the portfolio.*
+*I build RAG retrieval, data pipelines, and web prototypes you can open right away.*
 
 ## Projects
 
 | 프로젝트 | 내용 | 링크 |
 | --- | --- | --- |
 | **WIZCOVERY** | KT wiz 팀스토어 굿즈 검색, 매장 재고와 품절 대안, 픽업 흐름 프로토타입 | [사이트](https://yeninni.github.io/wizcovery/) [코드](https://github.com/yeninni/wizcovery) |
-| **YELIN.zip** | 픽셀 스타일 개인 포트폴리오, 한국어와 영어 | [사이트](https://yeninni.github.io/portfolioyelin/) |
 | **짐, 내게 와** | 전국 공영 물품보관함 347곳의 위치와 크기별 남은 칸 | [사이트](https://yeninni.github.io/korea-data-/) [코드](https://github.com/yeninni/korea-data-) |
 | **Miroro** | 40단계 브라우저 미로 게임, 스테이지 랜덤 생성 | [사이트](https://yeninni.github.io/miroro/) [코드](https://github.com/yeninni/miroro) |
 | **Karby** | 수달 캐릭터 점프 게임, Supabase 리더보드 | [사이트](https://yeninni.github.io/game_karby/) [코드](https://github.com/yeninni/game_karby) |
@@ -43,6 +41,5 @@ RAG 검색 평가, 데이터 파이프라인, 바로 열어 볼 수 있는 웹 �
 ## Contact
 
 - Email: [shinrora@naver.com](mailto:shinrora@naver.com)
-- Portfolio: [yeninni.github.io/portfolioyelin](https://yeninni.github.io/portfolioyelin/)
 - GitHub: [@yeninni](https://github.com/yeninni)
 - Seoul, South Korea
